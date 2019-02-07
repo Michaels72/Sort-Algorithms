@@ -1,3 +1,3 @@
 # Sort-Algorithms
 
-![](SortAlgorithms.png)
+![](/Image/SortAlgorithms.png)
